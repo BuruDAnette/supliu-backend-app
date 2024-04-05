@@ -8,6 +8,7 @@ Este projeto demonstra a criação de um CRUD (Create, Read, Update, Delete) de 
     ! Upload de capa do álbum.
     ! Validação de formulários.
 
+https://github.com/BuruDAnette/supliu-backend-app/blob/83d5b15400f3238c3b330420116b12f6c398f435/preview.mp4
 
 ## O Código
 
